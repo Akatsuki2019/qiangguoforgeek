@@ -3,12 +3,15 @@
 学习强国，自动挂机刷积分工具。请谨慎使用。
 
 安装方法:
+
 1.安装chrome浏览器
 2.下载与chrome版本对应的chromedriver: http://chromedriver.chromium.org/,并复制到c:\windows目录
 3.安装python环境（版本3），并通过pip install 安装相关的模块。
 
 使用方法：
+
 1.运行挂机脚本：
+
 ```
 python qiangguo.py
 ```
